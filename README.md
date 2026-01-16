@@ -8,7 +8,7 @@ This project implements sentiment analysis on Amazon product reviews using PySpa
 
 ## 🚀 Features
 
-- **Big Data Processing**: Leverages Apache Spark for distributed data processing
+- **Big Data Processing**: Leverages Apache Spark for distributed data processing  
 - **Sentiment Classification**:  Analyzes review text to determine positive, negative, or neutral sentiment
 - **Scalable Architecture**: Designed to handle large volumes of Amazon review data
 - **Machine Learning Integration**:  Utilizes Spark MLlib for building and training sentiment models
